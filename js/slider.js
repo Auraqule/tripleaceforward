@@ -1,5 +1,5 @@
 const slides = document.querySelectorAll('.slide');
-const slideInterval = 3000; // Change slide every 3 seconds
+const slideInterval = 5000; // Change slide every 5 seconds
 
 let currentSlide = 0;
 const nextSlide = () => {
